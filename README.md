@@ -4,19 +4,19 @@
 
 ## About
 
-Focused on understanding systems and building reliable software.
+Doing stuff...
 
 ## Skills
 
 **Languages**
-C · C# · Java · JavaScript
+C · C# · Java · JavaScript · Python
 
 **Web**
-HTML · CSS · Vanilla JavaScript
+HTML · CSS · JavaScript · React · NodeJS
 
 **Tools**
-Git · GitHub · VS Code · more
+Git · GitHub · VS Code · Unity
 
 ## Interests
 
-Game development · Chess · Guitar · more
+Chess · Guitar · more
